@@ -1,0 +1,19 @@
+{
+    "rootAPI":"/api/v1/",
+    "port":"8080",
+    "db": {
+    "host": "localhost",
+    "database": "nodejsbis",
+    "port": 8889 ,
+    "user": "root",
+    "password": "root"
+    },
+    "errors": {
+        "wrongId": "wrong id",
+        "wrongMaxValue": "wrong max value",
+        "nameAlreadyTaken": "name already taken",
+        "noNameValue": "no name value",
+        "sameName": "same name"
+    }
+
+}
